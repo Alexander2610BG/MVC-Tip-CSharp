@@ -1,0 +1,16 @@
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.exe
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.deps.json
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.runtimeconfig.json
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.runtimeconfig.dev.json
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.dll
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\ref\TipMVC.dll
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\bin\Debug\net5.0\TipMVC.pdb
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.csproj.AssemblyReference.cache
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.AssemblyInfoInputs.cache
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.AssemblyInfo.cs
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.csproj.CoreCompileInputs.cache
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.dll
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\ref\TipMVC.dll
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.pdb
+C:\Users\al.skachkov25g\source\repos\TipMVC\TipMVC\obj\Debug\net5.0\TipMVC.genruntimeconfig.cache
